@@ -20,7 +20,6 @@
 		4EAD9CC4236106C0008FA9C2 /* SearchTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4EAD9CC2236106C0008FA9C2 /* SearchTableViewCell.xib */; };
 		4EAD9CC623624C7D008FA9C2 /* CustomTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EAD9CC523624C7D008FA9C2 /* CustomTabBarController.swift */; };
 		4EAD9CC923624E8A008FA9C2 /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EAD9CC823624E8A008FA9C2 /* ViewModel.swift */; };
-		4EAD9CCB23625656008FA9C2 /* HeadLineViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EAD9CCA23625656008FA9C2 /* HeadLineViewController.swift */; };
 		4EAD9CCD236257E3008FA9C2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EAD9CCC236257E3008FA9C2 /* ViewController.swift */; };
 		4EAD9CD023625D03008FA9C2 /* HeadLineTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EAD9CCF23625D03008FA9C2 /* HeadLineTableViewCell.swift */; };
 /* End PBXBuildFile section */
@@ -53,7 +52,6 @@
 		4EAD9CC2236106C0008FA9C2 /* SearchTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SearchTableViewCell.xib; sourceTree = "<group>"; };
 		4EAD9CC523624C7D008FA9C2 /* CustomTabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTabBarController.swift; sourceTree = "<group>"; };
 		4EAD9CC823624E8A008FA9C2 /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
-		4EAD9CCA23625656008FA9C2 /* HeadLineViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeadLineViewController.swift; sourceTree = "<group>"; };
 		4EAD9CCC236257E3008FA9C2 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		4EAD9CCF23625D03008FA9C2 /* HeadLineTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeadLineTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -142,7 +140,6 @@
 			children = (
 				4EAD9CCC236257E3008FA9C2 /* ViewController.swift */,
 				4EAD9CC523624C7D008FA9C2 /* CustomTabBarController.swift */,
-				4EAD9CCA23625656008FA9C2 /* HeadLineViewController.swift */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
@@ -297,7 +294,6 @@
 				4EAD9CC923624E8A008FA9C2 /* ViewModel.swift in Sources */,
 				4E09E17B235D1F2400AF0218 /* NewsAPIEndPoints.swift in Sources */,
 				4E09E178235D1E0100AF0218 /* NewsAPIModel.swift in Sources */,
-				4EAD9CCB23625656008FA9C2 /* HeadLineViewController.swift in Sources */,
 				4E09E150235D1B7100AF0218 /* AppDelegate.swift in Sources */,
 				4EAD9CC623624C7D008FA9C2 /* CustomTabBarController.swift in Sources */,
 				4E09E17D235D2CC000AF0218 /* NewsServices.swift in Sources */,
